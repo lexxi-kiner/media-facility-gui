@@ -252,7 +252,8 @@ public class Controller {
    */
   public void setupProductLineTable() {
 
-    // create the product line table
+    // create the producgithub
+    // t line table
     TableColumn<Product, Integer> columnId = new TableColumn<>("ID");
     columnId.setCellValueFactory(new PropertyValueFactory<Product, Integer>("id"));
 

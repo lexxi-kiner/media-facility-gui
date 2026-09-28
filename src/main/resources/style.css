@@ -1,8 +1,8 @@
-{
-  -fx-font-size: 10pt
-;
-  -fx-base: rgb(200, 225, 107)
-;
-  -fx-background: rgb(120, 24, 190)
-;
+.root {
+  font-size: 12pt;
+  -fx-font-size: 12pt;
+  -fx-base: rgb(183,203,218);
+  -fx-text-fill: rgb(103,158,225);
+  background: rgb(248, 250, 252);
+  -fx-background: rgb(248, 250, 252);
 }
